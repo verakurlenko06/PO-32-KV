@@ -1,0 +1,5 @@
+$ git add my_first_file.txt
+fatal: not a git repository (or any of the parent directories ): .git
+$ git commit -m "my_first_commit"
+[master (root-commit) 6d395d3] my_first_commit
+1 file changed, 0 insertions (+), 0 deletions (-) create mode 100644 my_first_file. txt
