@@ -3,3 +3,35 @@ fatal: not a git repository (or any of the parent directories ): .git
 $ git commit -m "my_first_commit"
 [master (root-commit) 6d395d3] my_first_commit
 1 file changed, 0 insertions (+), 0 deletions (-) create mode 100644 my_first_file. txt
+test row [master 0d5958] my_second_commit
+1 file changed, 1 insertion(+)
+$ git status
+On branch master
+Changes to be committed:
+(use "git restore --staged ‹file>...
+" to unstage)
+new file:
+my_second_file. txt
+$ git commit -m "my_last_commit" _master 0618e0a] my_last_commit
+1 file changed, 0 insertions+), O deletions (-create mode 100644 my_second_file. txt
+$ git commit -m "add to gitignore" [master 413054e] add to gitIgnore 2 files changed, 2 insertions (+) create mode 100644 • gitignore create mode 100644 log/main.html
+$ git status
+On branch master
+Changes to be committed:
+(use "git restore --staged <file>..." to unstage)
+modified:
+my_first_file. txt
+diff --git a/my_first_file.txt b/my_first_file.txt
+index 816acc5..08bldcc 100644
+--- a/my_first_file, txt +*+ b/my_first_file. txt
+00 - 1,2 +1,3 @0
+test row row to index
+No newline at end of file
+*row to index
+*row no index
+No newline at end of file
+git commit -m "daddsadsadddsdd"" ffoOk [Adelete"
+[master 722b4ea] daddsadsadddsdd ffook[Adelete
+1 file changed, 1 deletion(-) delete mode 100644 my_first_file. txt
+carpi@DESKTOP-IEGSAG MINGW64 /c/3k/OOP/labs/lab_git1/П0-33/ZES (master)
+git commit -m "add new my-first_file""
